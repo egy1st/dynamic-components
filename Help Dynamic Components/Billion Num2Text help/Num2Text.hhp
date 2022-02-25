@@ -1,0 +1,30 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=DC Num2Text v1.0.chm
+Contents file=Table of Contents.hhc
+Default topic=DynamicComponents Num2Text.htm
+Display compile progress=No
+Full-text search=Yes
+Index file=Index.hhk
+Language=0x409 English (United States)
+Title=DC Num2Text v1.0 Help
+
+
+[FILES]
+AuthorInfo.htm
+Contact us.htm
+Features.htm
+How to order.htm
+How to Register your Copy.htm
+License.htm
+Overview.htm
+System Requirements.htm
+Tutorial.htm
+TranslateNumber.htm
+Deploying Num2Text.htm
+DynamicComponents Num2Text.htm
+Including DC.Num2Text.htm
+Installing Num2Text.htm
+
+[INFOTYPES]
+

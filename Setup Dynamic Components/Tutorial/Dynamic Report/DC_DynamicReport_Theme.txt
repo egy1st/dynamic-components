@@ -1,0 +1,1 @@
+header01.bmp   #C0C0C0   #6699ff   #99CCFF   #6699ff   header02.bmp   #CC99FF   #3399FF   #FFCCFF   #3399FF   header03.bmp   #FF0000   #FFFF00   #FFCCFF   #FFFF00   header04.bmp   #33CC33   #CCFFCC   #99CCFF   #CCFFCC   header05.bmp   #CCCCCC   #CCCCCC   #FFFFFF   #CCCCCC   header06.bmp   #FFFFFF   #FFFFFF   #FFFFFF   #FFFFFF   

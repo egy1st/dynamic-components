@@ -1,0 +1,21 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Dynamic Components v1.0.chm
+Contents file=DataMangerHelp.hhc
+Default topic=Dynamic Components.htm
+Display compile progress=No
+Full-text search=Yes
+Index file=DataMangerHelp.hhk
+Language=0x409 English (United States)
+Title=Dynamic Components Help
+
+
+[FILES]
+authorinfo.htm
+contact us.htm
+how to order.htm
+license.htm
+system requirements.htm
+
+[INFOTYPES]
+
